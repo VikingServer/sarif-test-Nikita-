@@ -11,7 +11,7 @@
         },
         "invocation": {
           "workingDirectory" : {
-            "uri": "file:///C:"
+            "uri": "file:///C%3A"
           },
           "executionSuccessful": true
         }
@@ -197,7 +197,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C:/include/geometry/BoundingBox.h"
+                  "uri": "file:///C%3A/include/geometry/BoundingBox.h"
                 },
                 "region": {
                   "startLine": 1,
@@ -217,7 +217,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C:/src/Param.h"
+                  "uri": "file:///C%3A/src/Param.h"
                 },
                 "region": {
                   "startLine": 429,
