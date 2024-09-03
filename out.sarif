@@ -181,15 +181,7 @@
           "level": "error",
           "locations": [
             {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "file:///C%3A/include/geometry/BoundingBox.h"
-                },
-                "region": {
-                  "startLine": 1,
-                  "endLine": 1
-                }
-              }
+              "message" : "This result has no artifact and applies to the whole project."
             }
           ]
         },
