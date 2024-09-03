@@ -179,7 +179,19 @@
             "text": "Analysis of 'Utility' type projects is not supported in this tool. Use direct analyzer integration or compiler monitoring instead."
           },
           "level": "error",
-          "locations" : []
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": ""
+                },
+                "region": {
+                  "startLine": 0,
+                  "endLine": 0
+                }
+              }
+            }
+          ]
         },
         {
           "ruleId": "V2507",
