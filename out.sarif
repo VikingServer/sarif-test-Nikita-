@@ -3,14 +3,15 @@
   "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
   "runs": [
     {
-      "invocations" : [
-        {
+      "conversion": {
+        "invocation": {
           "workingDirectory" : {
             "uri": "file:///C:"
           },
           "executionSuccessful": true
         }
-      ],
+      },
+
       "tool": {
         "driver": {
           "name": "PVS-Studio",
