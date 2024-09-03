@@ -179,7 +179,6 @@
             "text": "Analysis of 'Utility' type projects is not supported in this tool. Use direct analyzer integration or compiler monitoring instead."
           },
           "level": "error",
-          "locations": []
         },
         {
           "ruleId": "V2507",
