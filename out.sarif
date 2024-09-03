@@ -6,7 +6,7 @@
       "invocations" : [
         {
           "workingDirectory" : {
-            "uri": "file:///C%3A"
+            "uri": "file:///C%3A/"
           },
           "executionSuccessful": true
         }
