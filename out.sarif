@@ -4,6 +4,11 @@
   "runs": [
     {
       "conversion": {
+        "tool": {
+          "driver": {
+            "name": "SARIF SDK Multitool"
+          }
+        },
         "invocation": {
           "workingDirectory" : {
             "uri": "file:///C:"
