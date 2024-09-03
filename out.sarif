@@ -191,7 +191,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C%3A/include/geometry/BoundingBox.h"
+                  "uri": "include/geometry/BoundingBox.h"
                 },
                 "region": {
                   "startLine": 1,
@@ -211,7 +211,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file:///C%3A/src/Param.h"
+                  "uri": "src/Param.h"
                 },
                 "region": {
                   "startLine": 429,
