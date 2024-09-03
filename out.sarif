@@ -181,7 +181,9 @@
           "level": "error",
           "locations": [
             {
-              "message" : "This result has no artifact and applies to the whole project."
+              "message" : {
+                "text" : "This result has no artifact and applies to the whole project."
+              }
             }
           ]
         },
