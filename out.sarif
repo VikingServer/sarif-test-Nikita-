@@ -3,7 +3,14 @@
   "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
   "runs": [
     {
-
+      "invocations" : [
+        {
+          "workingDirectory" : {
+            "uri": "file:///C%3A"
+          },
+          "executionSuccessful": true
+        }
+      ],
       "tool": {
         "driver": {
           "name": "PVS-Studio",
@@ -182,8 +189,14 @@
           "level": "error",
           "locations": [
             {
-              "message" : {
-                "text" : "This result has no artifact and applies to the whole project."
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C%3A/include/geometry/BoundingBox.h"
+                },
+                "region": {
+                  "startLine": 1,
+                  "endLine": 1
+                }
               }
             }
           ]
