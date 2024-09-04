@@ -6,7 +6,7 @@
       "conversion": {
         "tool": {
           "driver": {
-            "name": "SARIF SDK Multitool"
+            "name": "PVS-Studio"
           }
         },
         "invocation": {
