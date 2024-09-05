@@ -1,228 +1,55 @@
 {
-  "version": "2.1.0",
-  "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
-  "runs": [
-    {
-     "invocations" : [
+    "version": "2.1.0",
+    "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
+    "runs": [
         {
-          "workingDirectory" : {
-            "uri": "file:///C%3A"
-          },
-          "executionSuccessful": true
-        }
-      ],
-
-      "tool": {
-        "driver": {
-          "name": "PVS-Studio",
-          "semanticVersion": "7.32.0.1",
-          "informationUri": "https://pvs-studio.com",
-          "rules": [
-            {
-              "id": "V010",
-              "name": "RuleV010",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v010/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v010/"
-            },
-            {
-              "id": "V2507",
-              "name": "RuleV2507",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2507/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2507/"
-            },
-            {
-              "id": "V2561",
-              "name": "RuleV2561",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2561/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2561/"
-            },
-            {
-              "id": "V3504",
-              "name": "RuleV3504",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3504/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3504/"
-            },
-            {
-              "id": "V3538",
-              "name": "RuleV3538",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3538/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3538/"
-            },
-            {
-              "id": "V2533",
-              "name": "RuleV2533",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2533/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2533/"
-            },
-            {
-              "id": "V2563",
-              "name": "RuleV2563",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2563/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2563/"
-            },
-            {
-              "id": "V2564",
-              "name": "RuleV2564",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2564/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2564/"
-            },
-            {
-              "id": "V2570",
-              "name": "RuleV2570",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2570/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2570/"
-            },
-            {
-              "id": "V2575",
-              "name": "RuleV2575",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2575/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2575/"
-            },
-            {
-              "id": "V3539",
-              "name": "RuleV3539",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3539/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3539/"
-            },
-            {
-              "id": "V3540",
-              "name": "RuleV3540",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3540/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3540/"
-            },
-            {
-              "id": "V3545",
-              "name": "RuleV3545",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3545/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3545/"
-            },
-            {
-              "id": "V3549",
-              "name": "RuleV3549",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3549/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3549/"
-            },
-            {
-              "id": "V2573",
-              "name": "RuleV2573",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2573/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2573/"
-            },
-            {
-              "id": "V3547",
-              "name": "RuleV3547",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3547/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3547/"
-            },
-            {
-              "id": "V2520",
-              "name": "RuleV2520",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2520/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2520/"
-            },
-            {
-              "id": "V2578",
-              "name": "RuleV2578",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v2578/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v2578/"
-            },
-            {
-              "id": "V3513",
-              "name": "RuleV3513",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3513/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3513/"
-            },
-            {
-              "id": "V3551",
-              "name": "RuleV3551",
-              "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v3551/"
-              },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v3551/"
-            }
-          ]
-        }
-      },
-      "results": [
-        {
-          "ruleId": "V010",
-          "message": {
-            "text": "Analysis of 'Utility' type projects is not supported in this tool. Use direct analyzer integration or compiler monitoring instead."
-          },
-          "level": "error",
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "file:///C%3A/include/geometry/BoundingBox.h"
-                },
-                "region": {
-                  "startLine": 1,
-                  "endLine": 1
+            "invocations": [
+                {
+                    "workingDirectory": {
+                        "uri": "file:///C%3A"
+                    },
+                    "executionSuccessful": true
                 }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "V3549",
-          "message": {
-            "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
-          },
-          "level": "error",
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "file:///C%3A/src/Param.h"
-                },
-                "region": {
-                  "startLine": 429,
-                  "endLine": 429
+            ],
+            "tool": {
+                "driver": {
+                    "name": "PVS-Studio",
+                    "semanticVersion": "7.32.0.1",
+                    "informationUri": "https://pvs-studio.com",
+                    "rules": [
+                        {
+                            "id": "V010",
+                            "name": "RuleV010",
+                            "help": {
+                                "text": "https://pvs-studio.com/en/docs/warnings/v010/"
+                            },
+                            "helpUri": "https://pvs-studio.com/en/docs/warnings/v010/"
+                        }
+                    ]
                 }
-              }
-            }
-          ]
+            },
+            "results": [
+                {
+                    "ruleId": "V010",
+                    "message": {
+                        "text": "Analysis of 'Utility' type projects is not supported in this tool. Use direct analyzer integration or compiler monitoring instead."
+                    },
+                    "level": "error",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "file:///C%3A/include/geometry/BoundingBox.h"
+                                },
+                                "region": {
+                                    "startLine": 1,
+                                    "endLine": 1
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
