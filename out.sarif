@@ -39,7 +39,7 @@
                         {
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "include/geometry/BoundingBox.h"
+                                    "uri": "file:///C%3A/include/geometry/BoundingBox.h"
                                 },
                                 "region": {
                                     "startLine": 1,
