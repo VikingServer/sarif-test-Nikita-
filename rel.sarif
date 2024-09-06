@@ -32,7 +32,6 @@
                             "physicalLocation": {
                                 "artifactLocation": {
                                     "uri": "src/CLI.cpp",
-                                    "uriBaseId" : "file:///C%3A"
                                 },
                                 "region": {
                                     "startLine": 1,
