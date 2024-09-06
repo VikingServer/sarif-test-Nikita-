@@ -48,6 +48,27 @@
                             }
                         }
                     ]
+                },
+                {
+                    "ruleId": "V010",
+                    "message": {
+                        "text": "Analysis of 'Utility' type projects is not supported in this tool. Use direct analyzer integration or compiler monitoring instead."
+                    },
+                    "level": "error",
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uri": "src/CLI.cpp",
+                                    "uriBaseId" : "file:///C%3A"
+                                },
+                                "region": {
+                                    "startLine": 1,
+                                    "endLine": 1
+                                }
+                            }
+                        }
+                    ]
                 }
             ]
         }
