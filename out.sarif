@@ -6,12 +6,18 @@
             "invocations": [
                 {
                     "exitCodeDescription" : "Test Description",
-                    "executionSuccessful": false
+                    "executionSuccessful": true,
+                    "toolExecutionNotifications" : [
+                        {
+                            "descriptor": {
+                                "id": "Test Notification Descriptor ID."
+                            },
+                            "message": {
+                                "text": "Test Notification Message."
+                            },
+                        }
+                    ]
                 },
-                {
-                    "exitCodeDescription" : "Test Description",
-                    "executionSuccessful": false
-                }
             ],
             "tool": {
                 "driver": {
