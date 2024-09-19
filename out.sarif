@@ -18,6 +18,7 @@
                             "message": {
                                 "text": "Test Notification Message."
                             },
+                        },
                         {
                             "descriptor": {
                                 "id": "Test Notification Descriptor ID 2."
