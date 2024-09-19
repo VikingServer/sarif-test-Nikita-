@@ -6,7 +6,7 @@
             "invocations": [
                 {
                     "exitCodeDescription" : "Test Description",
-                    "executionSuccessful": false,
+                    "executionSuccessful": true,
                     "toolExecutionNotifications" : [
                         {
                             "descriptor": {
