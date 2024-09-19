@@ -14,10 +14,10 @@
                             },
                             "message": {
                                 "text": "Test Notification Message."
-                            },
+                            }
                         }
                     ]
-                },
+                }
             ],
             "tool": {
                 "driver": {
