@@ -12,6 +12,9 @@
                             "descriptor": {
                                 "id": "Test Notification Descriptor ID."
                             },
+                            "associatedRule": {
+                                "id": "V010"
+                            },
                             "message": {
                                 "text": "Test Notification Message."
                             }
