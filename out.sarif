@@ -17,6 +17,16 @@
                             },
                             "message": {
                                 "text": "Test Notification Message."
+                            },
+                        {
+                            "descriptor": {
+                                "id": "Test Notification Descriptor ID 2."
+                            },
+                            "associatedRule": {
+                                "id": "V010"
+                            },
+                            "message": {
+                                "text": "Test Notification Message 2."
                             }
                         }
                     ]
