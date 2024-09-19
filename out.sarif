@@ -5,10 +5,8 @@
         {
             "invocations": [
                 {
-                    "workingDirectory": {
-                        "uri": "file:///C%3A"
-                    },
-                    "executionSuccessful": true
+                    "exitCodeDescription" : "Test Description",
+                    "executionSuccessful": false
                 }
             ],
             "tool": {
