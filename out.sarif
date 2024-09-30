@@ -77,7 +77,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "file://C%3A/Users/sviridov/Desktop/Work/id-10692/x64dbg/src/dbg/addrinfo.cpp"
+                  "uri": "src/Bitmap.cpp"
                 },
                 "region": {
                   "startLine": 48,
