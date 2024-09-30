@@ -50,32 +50,38 @@
           "informationUri": "https://pvs-studio.com",
           "rules": [
             {
-              "id": "V137",
-              "name": "RuleV137",
+              "id": "V512",
+              "name": "RuleV512",
               "help": {
-                "text": "https://pvs-studio.com/en/docs/warnings/v137/"
+                "text": "https://pvs-studio.com/en/docs/warnings/v512/"
               },
-              "helpUri": "https://pvs-studio.com/en/docs/warnings/v137/"
+              "helpUri": "https://pvs-studio.com/en/docs/warnings/v512/",
+              "properties": {
+                "tags": [
+                  "security",
+                  "external/cwe/cwe-119"
+                ]
+              }
             }
           ]
         }
       },
       "results": [
         {
-          "ruleId": "V137",
+          "ruleId": "V512",
           "message": {
-            "text": "C:\\Users\\sviridov\\Desktop\\Work\\id-10692\\x64dbg\\src\\dbg\\typesparser.cpp(6) : fatal error C1083: Cannot open include file: 'btparser/btparser/lexer.h': No such file or directory"
+            "text": "A call of the 'sprintf_s' function will lead to overflow of the buffer 'modname'."
           },
-          "level": "error",
+          "level": "warning",
           "locations": [
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Bitmap.cpp"
+                  "uri": "file://C%3A/Users/sviridov/Desktop/Work/id-10692/x64dbg/src/dbg/addrinfo.cpp"
                 },
                 "region": {
-                  "startLine": 279,
-                  "endLine": 279
+                  "startLine": 48,
+                  "endLine": 48
                 }
               }
             }
