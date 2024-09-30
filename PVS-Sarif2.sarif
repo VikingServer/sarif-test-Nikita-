@@ -56,6 +56,14 @@
                 "text": "https://pvs-studio.com/en/docs/warnings/v137/"
               },
               "helpUri": "https://pvs-studio.com/en/docs/warnings/v137/"
+            },
+            {
+              "id": "V666",
+              "name": "RuleV666",
+              "help": {
+                "text": "https://pvs-studio.com/en/docs/warnings/v137/"
+              },
+              "helpUri": "https://pvs-studio.com/en/docs/warnings/v137/"
             }
           ]
         }
@@ -76,6 +84,27 @@
           },
           "level": "error",
           "locations": []
+        },
+        {
+          "ruleId": "V666",
+          "message": {
+              "text": "Analysis of 'Utility' type projects is not supported in this tool. Use direct analyzer integration or compiler monitoring instead."
+          },
+          "level": "error",
+          "locations": [
+              {
+                  "physicalLocation": {
+                      "artifactLocation": {
+                          "uri": "src/CLI.cpp",
+                          "uriBaseId" : "file:///C%3A"
+                      },
+                      "region": {
+                          "startLine": 1,
+                          "endLine": 1
+                      }
+                  }
+              }
+          ]
         }
       ]
     }
