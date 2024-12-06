@@ -354,8 +354,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "include/geometry/BoundingBox.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/include/geometry/BoundingBox.h"
                 },
                 "region": {
                   "startLine": 51,
@@ -375,8 +374,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "include/geometry/BoundingBox.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/include/geometry/BoundingBox.h"
                 },
                 "region": {
                   "startLine": 51,
@@ -396,8 +394,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "include/geometry/BoundingBox.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/include/geometry/BoundingBox.h"
                 },
                 "region": {
                   "startLine": 96,
@@ -417,8 +414,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "include/geometry/BoundingBox.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/include/geometry/BoundingBox.h"
                 },
                 "region": {
                   "startLine": 96,
@@ -438,8 +434,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "include/geometry/BoundingBox.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/include/geometry/BoundingBox.h"
                 },
                 "region": {
                   "startLine": 154,
@@ -459,8 +454,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "include/geometry/BoundingBox.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/include/geometry/BoundingBox.h"
                 },
                 "region": {
                   "startLine": 154,
@@ -480,8 +474,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Bitmap.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Bitmap.cpp"
                 },
                 "region": {
                   "startLine": 234,
@@ -497,8 +490,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Bitmap.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Bitmap.cpp"
                 },
                 "region": {
                   "endLine": 234,
@@ -512,8 +504,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Bitmap.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Bitmap.cpp"
                 },
                 "region": {
                   "endLine": 235,
@@ -527,8 +518,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Bitmap.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Bitmap.cpp"
                 },
                 "region": {
                   "endLine": 237,
@@ -548,8 +538,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Constants.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Constants.h"
                 },
                 "region": {
                   "startLine": 16,
@@ -569,8 +558,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 4039,
@@ -586,8 +574,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 4039,
@@ -601,8 +588,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 4114,
@@ -622,8 +608,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 4040,
@@ -639,8 +624,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 4040,
@@ -654,8 +638,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 4115,
@@ -675,8 +658,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3994,
@@ -696,8 +678,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3995,
@@ -717,8 +698,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3996,
@@ -738,8 +718,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3772,
@@ -759,8 +738,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 753,
@@ -780,8 +758,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 1070,
@@ -801,8 +778,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 1074,
@@ -822,8 +798,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 1086,
@@ -843,8 +818,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 1499,
@@ -864,8 +838,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 1500,
@@ -885,8 +858,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 2650,
@@ -906,8 +878,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 2883,
@@ -927,8 +898,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 2902,
@@ -948,8 +918,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 2914,
@@ -969,8 +938,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 2931,
@@ -990,8 +958,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 2966,
@@ -1011,8 +978,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3514,
@@ -1032,8 +998,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3528,
@@ -1053,8 +1018,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3670,
@@ -1074,8 +1038,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3673,
@@ -1095,8 +1058,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3777,
@@ -1116,8 +1078,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3968,
@@ -1137,8 +1098,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3978,
@@ -1158,8 +1118,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 1028,
@@ -1175,8 +1134,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 1027,
@@ -1190,8 +1148,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 1028,
@@ -1211,8 +1168,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 655,
@@ -1228,8 +1184,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 655,
@@ -1243,8 +1198,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 668,
@@ -1264,8 +1218,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 2833,
@@ -1285,8 +1238,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 1060,
@@ -1306,8 +1258,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 2682,
@@ -1327,8 +1278,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 1537,
@@ -1348,8 +1298,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3517,
@@ -1365,8 +1314,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 3516,
@@ -1380,8 +1328,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 3517,
@@ -1401,8 +1348,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3517,
@@ -1418,8 +1364,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 3516,
@@ -1433,8 +1378,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 3517,
@@ -1454,8 +1398,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "startLine": 3673,
@@ -1471,8 +1414,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 3672,
@@ -1486,8 +1428,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/CovidSim.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/CovidSim.cpp"
                 },
                 "region": {
                   "endLine": 3673,
@@ -1507,8 +1448,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Dist.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Dist.cpp"
                 },
                 "region": {
                   "startLine": 126,
@@ -1528,8 +1468,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Kernels.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Kernels.h"
                 },
                 "region": {
                   "startLine": 80,
@@ -1549,8 +1488,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Param.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Param.cpp"
                 },
                 "region": {
                   "startLine": 9,
@@ -1570,8 +1508,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Param.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Param.cpp"
                 },
                 "region": {
                   "startLine": 16,
@@ -1591,8 +1528,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Param.h",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Param.h"
                 },
                 "region": {
                   "startLine": 26,
@@ -1612,8 +1548,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "startLine": 810,
@@ -1633,8 +1568,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "startLine": 937,
@@ -1654,8 +1588,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "startLine": 1007,
@@ -1675,8 +1608,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "startLine": 1049,
@@ -1696,8 +1628,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "startLine": 1073,
@@ -1717,8 +1648,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "startLine": 618,
@@ -1738,8 +1668,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "startLine": 1003,
@@ -1755,8 +1684,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "endLine": 1002,
@@ -1770,8 +1698,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Rand.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Rand.cpp"
                 },
                 "region": {
                   "endLine": 1003,
@@ -1791,8 +1718,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1828,
@@ -1812,8 +1738,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1829,
@@ -1833,8 +1758,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 47,
@@ -1854,8 +1778,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 78,
@@ -1875,8 +1798,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1735,
@@ -1896,8 +1818,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1818,
@@ -1917,8 +1838,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 87,
@@ -1938,8 +1858,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 105,
@@ -1959,8 +1878,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 119,
@@ -1980,8 +1898,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 134,
@@ -2001,8 +1918,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 160,
@@ -2022,8 +1938,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 165,
@@ -2043,8 +1958,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 170,
@@ -2064,8 +1978,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 175,
@@ -2085,8 +1998,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 180,
@@ -2106,8 +2018,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 188,
@@ -2127,8 +2038,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 212,
@@ -2148,8 +2058,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 219,
@@ -2169,8 +2078,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 234,
@@ -2190,8 +2098,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 239,
@@ -2211,8 +2118,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 244,
@@ -2232,8 +2138,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 249,
@@ -2253,8 +2158,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 257,
@@ -2274,8 +2178,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 272,
@@ -2295,8 +2198,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 277,
@@ -2316,8 +2218,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 282,
@@ -2337,8 +2238,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 287,
@@ -2358,8 +2258,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 292,
@@ -2379,8 +2278,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 299,
@@ -2400,8 +2298,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 329,
@@ -2421,8 +2318,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 334,
@@ -2442,8 +2338,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 339,
@@ -2463,8 +2358,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 344,
@@ -2484,8 +2378,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 351,
@@ -2505,8 +2398,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 385,
@@ -2526,8 +2418,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 390,
@@ -2547,8 +2438,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 395,
@@ -2568,8 +2458,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 400,
@@ -2589,8 +2478,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 405,
@@ -2610,8 +2498,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 412,
@@ -2631,8 +2518,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 435,
@@ -2652,8 +2538,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 442,
@@ -2673,8 +2558,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 489,
@@ -2694,8 +2578,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1519,
@@ -2715,8 +2598,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1394,
@@ -2732,8 +2614,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "endLine": 1393,
@@ -2747,8 +2628,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "endLine": 1394,
@@ -2768,8 +2648,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1296,
@@ -2789,8 +2668,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1945,
@@ -2810,8 +2688,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 1952,
@@ -2831,8 +2708,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 2310,
@@ -2852,8 +2728,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 2311,
@@ -2873,8 +2748,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 2312,
@@ -2894,8 +2768,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 2313,
@@ -2915,8 +2788,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 2314,
@@ -2936,8 +2808,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 2315,
@@ -2957,8 +2828,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/ReadParams.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/ReadParams.cpp"
                 },
                 "region": {
                   "startLine": 2347,
@@ -2978,8 +2848,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 1238,
@@ -2999,8 +2868,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 23,
@@ -3020,8 +2888,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 581,
@@ -3041,8 +2908,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 582,
@@ -3062,8 +2928,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 149,
@@ -3083,8 +2948,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 672,
@@ -3104,8 +2968,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 678,
@@ -3125,8 +2988,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 1572,
@@ -3146,8 +3008,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 1743,
@@ -3167,8 +3028,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 2074,
@@ -3188,8 +3048,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 2074,
@@ -3209,8 +3068,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 2085,
@@ -3230,8 +3088,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 1403,
@@ -3251,8 +3108,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 1935,
@@ -3268,8 +3124,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "endLine": 1934,
@@ -3283,8 +3138,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "endLine": 1935,
@@ -3304,8 +3158,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 416,
@@ -3325,8 +3178,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 416,
@@ -3346,8 +3198,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/SetupModel.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/SetupModel.cpp"
                 },
                 "region": {
                   "startLine": 453,
@@ -3367,8 +3218,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1278,
@@ -3388,8 +3238,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1180,
@@ -3409,8 +3258,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 31,
@@ -3430,8 +3278,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 85,
@@ -3451,8 +3298,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 121,
@@ -3472,8 +3318,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 230,
@@ -3493,8 +3338,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 531,
@@ -3514,8 +3358,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 629,
@@ -3535,8 +3378,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 839,
@@ -3556,8 +3398,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 902,
@@ -3577,8 +3418,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1086,
@@ -3598,8 +3438,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1097,
@@ -3619,8 +3458,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1157,
@@ -3640,8 +3478,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1168,
@@ -3661,8 +3498,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1243,
@@ -3682,8 +3518,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1266,
@@ -3703,8 +3538,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1379,
@@ -3724,8 +3558,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1392,
@@ -3745,8 +3578,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1469,
@@ -3766,8 +3598,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1567,
@@ -3787,8 +3618,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "startLine": 1154,
@@ -3804,8 +3634,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "endLine": 1152,
@@ -3819,8 +3648,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Sweep.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Sweep.cpp"
                 },
                 "region": {
                   "endLine": 1154,
@@ -3840,8 +3668,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 506,
@@ -3861,8 +3688,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 1283,
@@ -3882,8 +3708,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 506,
@@ -3899,8 +3724,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "endLine": 503,
@@ -3914,8 +3738,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "endLine": 506,
@@ -3935,8 +3758,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 497,
@@ -3956,8 +3778,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 561,
@@ -3977,8 +3798,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 566,
@@ -3998,8 +3818,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 581,
@@ -4019,8 +3838,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 594,
@@ -4040,8 +3858,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 615,
@@ -4061,8 +3878,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 656,
@@ -4082,8 +3898,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 817,
@@ -4103,8 +3918,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 899,
@@ -4124,8 +3938,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "src/Update.cpp",
-                  "uriBaseId": "SRT"
+                  "uri": "file:///SarifTest/covid-sim/src/Update.cpp"
                 },
                 "region": {
                   "startLine": 1199,
@@ -4135,12 +3948,7 @@
             }
           ]
         }
-      ],
-      "originalUriBaseIds": {
-        "SRT": {
-          "uri": "file://D:/Work/SarifTest/covid-sim/"
-        }
-      }
+      ]
     }
   ]
 }
