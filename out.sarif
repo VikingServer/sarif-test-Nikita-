@@ -354,7 +354,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/include/geometry/BoundingBox.h",
+                  "uri": "include/geometry/BoundingBox.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -375,7 +375,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/include/geometry/BoundingBox.h",
+                  "uri": "include/geometry/BoundingBox.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -396,7 +396,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/include/geometry/BoundingBox.h",
+                  "uri": "include/geometry/BoundingBox.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -417,7 +417,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/include/geometry/BoundingBox.h",
+                  "uri": "include/geometry/BoundingBox.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -438,7 +438,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/include/geometry/BoundingBox.h",
+                  "uri": "include/geometry/BoundingBox.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -459,7 +459,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/include/geometry/BoundingBox.h",
+                  "uri": "include/geometry/BoundingBox.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -480,7 +480,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Bitmap.cpp",
+                  "uri": "src/Bitmap.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -497,7 +497,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Bitmap.cpp",
+                  "uri": "src/Bitmap.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -512,7 +512,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Bitmap.cpp",
+                  "uri": "src/Bitmap.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -527,7 +527,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Bitmap.cpp",
+                  "uri": "src/Bitmap.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -548,7 +548,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Constants.h",
+                  "uri": "src/Constants.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -569,7 +569,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -586,7 +586,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -601,7 +601,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -622,7 +622,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -639,7 +639,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -654,7 +654,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -675,7 +675,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -696,7 +696,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -717,7 +717,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -738,7 +738,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -759,7 +759,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -780,7 +780,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -801,7 +801,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -822,7 +822,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -843,7 +843,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -864,7 +864,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -885,7 +885,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -906,7 +906,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -927,7 +927,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -948,7 +948,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -969,7 +969,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -990,7 +990,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1011,7 +1011,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1032,7 +1032,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1053,7 +1053,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1074,7 +1074,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1095,7 +1095,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1116,7 +1116,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1137,7 +1137,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1158,7 +1158,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1175,7 +1175,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1190,7 +1190,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1211,7 +1211,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1228,7 +1228,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1243,7 +1243,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1264,7 +1264,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1285,7 +1285,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1306,7 +1306,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1327,7 +1327,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1348,7 +1348,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1365,7 +1365,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1380,7 +1380,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1401,7 +1401,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1418,7 +1418,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1433,7 +1433,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1454,7 +1454,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1471,7 +1471,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1486,7 +1486,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/CovidSim.cpp",
+                  "uri": "src/CovidSim.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1507,7 +1507,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Dist.cpp",
+                  "uri": "src/Dist.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1528,7 +1528,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Kernels.h",
+                  "uri": "src/Kernels.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1549,7 +1549,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Param.cpp",
+                  "uri": "src/Param.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1570,7 +1570,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Param.cpp",
+                  "uri": "src/Param.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1591,7 +1591,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Param.h",
+                  "uri": "src/Param.h",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1612,7 +1612,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1633,7 +1633,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1654,7 +1654,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1675,7 +1675,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1696,7 +1696,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1717,7 +1717,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1738,7 +1738,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1755,7 +1755,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1770,7 +1770,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Rand.cpp",
+                  "uri": "src/Rand.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1791,7 +1791,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1812,7 +1812,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1833,7 +1833,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1854,7 +1854,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1875,7 +1875,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1896,7 +1896,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1917,7 +1917,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1938,7 +1938,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1959,7 +1959,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -1980,7 +1980,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2001,7 +2001,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2022,7 +2022,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2043,7 +2043,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2064,7 +2064,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2085,7 +2085,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2106,7 +2106,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2127,7 +2127,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2148,7 +2148,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2169,7 +2169,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2190,7 +2190,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2211,7 +2211,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2232,7 +2232,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2253,7 +2253,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2274,7 +2274,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2295,7 +2295,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2316,7 +2316,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2337,7 +2337,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2358,7 +2358,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2379,7 +2379,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2400,7 +2400,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2421,7 +2421,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2442,7 +2442,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2463,7 +2463,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2484,7 +2484,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2505,7 +2505,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2526,7 +2526,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2547,7 +2547,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2568,7 +2568,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2589,7 +2589,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2610,7 +2610,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2631,7 +2631,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2652,7 +2652,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2673,7 +2673,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2694,7 +2694,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2715,7 +2715,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2732,7 +2732,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2747,7 +2747,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2768,7 +2768,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2789,7 +2789,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2810,7 +2810,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2831,7 +2831,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2852,7 +2852,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2873,7 +2873,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2894,7 +2894,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2915,7 +2915,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2936,7 +2936,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2957,7 +2957,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/ReadParams.cpp",
+                  "uri": "src/ReadParams.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2978,7 +2978,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -2999,7 +2999,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3020,7 +3020,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3041,7 +3041,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3062,7 +3062,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3083,7 +3083,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3104,7 +3104,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3125,7 +3125,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3146,7 +3146,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3167,7 +3167,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3188,7 +3188,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3209,7 +3209,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3230,7 +3230,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3251,7 +3251,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3268,7 +3268,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3283,7 +3283,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3304,7 +3304,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3325,7 +3325,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3346,7 +3346,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/SetupModel.cpp",
+                  "uri": "src/SetupModel.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3367,7 +3367,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3388,7 +3388,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3409,7 +3409,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3430,7 +3430,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3451,7 +3451,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3472,7 +3472,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3493,7 +3493,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3514,7 +3514,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3535,7 +3535,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3556,7 +3556,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3577,7 +3577,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3598,7 +3598,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3619,7 +3619,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3640,7 +3640,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3661,7 +3661,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3682,7 +3682,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3703,7 +3703,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3724,7 +3724,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3745,7 +3745,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3766,7 +3766,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3787,7 +3787,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3804,7 +3804,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3819,7 +3819,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Sweep.cpp",
+                  "uri": "src/Sweep.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3840,7 +3840,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3861,7 +3861,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3882,7 +3882,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3899,7 +3899,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3914,7 +3914,7 @@
               },
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3935,7 +3935,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3956,7 +3956,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3977,7 +3977,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -3998,7 +3998,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -4019,7 +4019,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -4040,7 +4040,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -4061,7 +4061,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -4082,7 +4082,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -4103,7 +4103,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -4124,7 +4124,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "covid-sim/src/Update.cpp",
+                  "uri": "src/Update.cpp",
                   "uriBaseId": "SRT"
                 },
                 "region": {
@@ -4138,7 +4138,7 @@
       ],
       "originalUriBaseIds": {
         "SRT": {
-          "uri": "file://D:/Work/SarifTest/"
+          "uri": "file://D:/Work/SarifTest/covid-sim/"
         }
       }
     }
