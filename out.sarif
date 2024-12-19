@@ -42,7 +42,7 @@
       "tool": {
         "driver": {
           "name": "PVS-Studio",
-          "semanticVersion": "7.34.87491.1460",
+          "semanticVersion": "7.33.86730.1426",
           "informationUri": "https://pvs-studio.com",
           "rules": [
             {
