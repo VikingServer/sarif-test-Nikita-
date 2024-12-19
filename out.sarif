@@ -42,7 +42,7 @@
       "tool": {
         "driver": {
           "name": "PVS-Studio",
-          "semanticVersion": "7.32.85033.1281",
+          "semanticVersion": "7.34.87491.1460",
           "informationUri": "https://pvs-studio.com",
           "rules": [
             {
@@ -48194,7 +48194,9 @@
         }
       ],
       "originalUriBaseIds": {
-        "SRT": "D%3A/TC/work/daily/prod.dev-695"
+        "SRT": {
+          "uri": "file://D/TC/work/daily/prod.dev-695/"
+        }
       }
     }
   ]
